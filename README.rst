@@ -1,4 +1,4 @@
-Artificial-intelligence-to-a-real-world: H indexing of paper  
+Artificial-intelligence-to-a-real-world: Deep Learning to Predict the H-index (productivity) of a particular scientist
 =====================================
 
 .. image:: https://img.shields.io/pypi/v/grave.svg
