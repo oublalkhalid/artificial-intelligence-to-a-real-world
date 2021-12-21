@@ -1,4 +1,4 @@
-Grave—dead simple graph visualization
+Artificial-intelligence-to-a-real-world: H indexing of paper  
 =====================================
 
 .. image:: https://img.shields.io/pypi/v/grave.svg
@@ -17,6 +17,15 @@ Grave—dead simple graph visualization
    :width: 250px
    :align: right
    :alt: Logo
+
+Abstract:
+-------
+The h-index is a number intended to represent both the productivity and the impact of a particular scientist or scholar, or a group of scientists or scholars (such as a departmental or research group). 
+The h-index is calculated by counting the number of publications for which an author has been cited by other authors at least that same number of times.  For instance, an h-index of 17 means that the scientist has published at least 17 papers that have each been cited at least 17 times.  If the scientist's 18th most cited publication was cited only 10 times, the h-index would remain at 17.  If the scientist's 18th most cited publication was cited 18 or more times, the h-index would rise to 18.
+Part of the purpose of the h-index is to eliminate outlier publications that might give a skewed picture of a scientist's impact.  For instance, if a scientist published one paper many years ago that was cited 9,374 times, but has since only published papers that have been cited 2 or 3 times each, a straight citation count for that scientist could make it seem that his or her long-term career work was very significant.  The h-index, however, would be much lower, signifying that the scientist's overall body of work was not necessarily as significant.
+
+Guide to start
+-------
 
 Grave is a graph visualization package combining ideas from Matplotlib,
 NetworkX, and seaborn. Its goal is to provide a network drawing API that
