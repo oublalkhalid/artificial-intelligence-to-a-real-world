@@ -1,7 +1,8 @@
-# Artificial-intelligence-to-a-real-world
+Grave—dead simple graph visualization
+=====================================
 
 .. image:: https://img.shields.io/pypi/v/grave.svg
-      :target: https://pypi.org/project/grave/
+   :target: https://pypi.org/project/grave/
 
 .. image:: https://github.com/networkx/grave/workflows/test/badge.svg?branch=main
      :target: https://github.com/networkx/grave/actions?query=workflow%3A%22test%22
